@@ -1,7 +1,7 @@
 ### Hi Everyone ❤❤❤❤ 
 
-  ![WhatsApp Image 2024-01-04 at 23 39 55_938cf28f](https://github.com/rdebnath1234/rdebnath1234/assets/97083678/d970fb4d-88f2-460c-a4aa-4bf9d1dd35cf)
-  
+  ![img](https://github.com/rdebnath1234/rdebnath1234/assets/97083678/8ad81e73-0b46-4586-a75d-2995f8f4954b)
+
   I , Riya Debnath , am a talented frontend developer proficient in both ReactJS and Flutter frameworks. 
 
 - 🔭 I’m currently working on mobile app developer
