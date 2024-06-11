@@ -1,10 +1,10 @@
 ### Hi Everyone ❤❤❤❤ 
   ![img](https://github.com/rdebnath1234/rdebnath1234/assets/97083678/ab331f57-5a91-48d1-bd53-68b1f000c2c2)
   
-  I , Riya Debnath , am a talented frontend developer proficient in both ReactJS and Flutter frameworks. 
+  I , Riya Debnath , am a talented frontend developer proficient in both ReactNative and Flutter frameworks. 
 
 - 🔭 I’m currently working on mobile app developer
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on android and iphone application
 - 🤔 I’m looking for help with my family
 - 💬 Ask me about my coding knowledge
