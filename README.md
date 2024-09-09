@@ -1,5 +1,5 @@
 ### Hi Everyone ❤❤❤❤ 
-  I , Riya Debnath , am a talented frontend developer proficient in both ReactNative and Flutter frameworks. 
+  I , Riya Debnath , am a talented web/mobile developer proficient in different frameworks. 
 
 - 🔭 I’m currently working on mobile app developer
 - 🌱 I’m currently learning React Native
